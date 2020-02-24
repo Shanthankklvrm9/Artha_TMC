@@ -102,19 +102,19 @@
         "show" : true,
         "field" : "TEXT",
         "name" : "HOST_IMPLICIT_CONTEXT",
-        "value" : "\"localhost\"",
+        "value" : "context.connection_test_Server",
         "contextMode" : false
       }, {
         "show" : true,
         "field" : "TEXT",
         "name" : "PORT_IMPLICIT_CONTEXT",
-        "value" : "\"1433\"",
+        "value" : "context.connection_test_Port",
         "contextMode" : false
       }, {
         "show" : true,
         "field" : "TEXT",
         "name" : "DBNAME_IMPLICIT_CONTEXT",
-        "value" : "\"ImplicitContext\"",
+        "value" : "context.connection_test_Database",
         "contextMode" : false
       }, {
         "show" : true,
@@ -138,13 +138,13 @@
         "show" : true,
         "field" : "TEXT",
         "name" : "USER_IMPLICIT_CONTEXT",
-        "value" : "\"meher\"",
+        "value" : "context.connection_test_Login",
         "contextMode" : false
       }, {
         "show" : true,
         "field" : "PASSWORD",
         "name" : "PASS_IMPLICIT_CONTEXT",
-        "value" : "U+SpekkF5Lv7Pm2xh94tbA==",
+        "value" : "8pW6Nmy2kufONy16xVNlL+AGKuAd+9CtaJY0Um3oji/NSazUvnmEJw==",
         "contextMode" : false
       }, {
         "show" : true,
