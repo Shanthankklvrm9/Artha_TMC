@@ -79,7 +79,7 @@
         "show" : true,
         "field" : "CLOSED_LIST",
         "name" : "DB_VERSION_IMPLICIT_CONTEXT",
-        "value" : "MSSQL_PROP",
+        "value" : "JTDS",
         "contextMode" : false
       }, {
         "show" : true,
